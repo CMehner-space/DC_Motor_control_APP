@@ -6,3 +6,5 @@ Button control allows for individual motor forward and backward movement and sto
 Four additional buttons can be preprogrammed for specific motor patterns.
 
 Additional attachment is a RBG LED light strip (https://www.sparkfun.com/products/18354) providing any needed alumination with on off function.
+
+<img src= "https://github.com/CMehner-space/Counter_Timestamp_App/assets/69016840/a77a0864-9731-4c09-979f-0ec2c20738eb" alt="Front Page" width="300">
