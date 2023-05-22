@@ -1,7 +1,9 @@
 # DC_Motor_control_APP
 
-App connects to DFRobot Beetle ESP32 microcontoller (https://www.dfrobot.com/product-1798.html) that is connected to Sparkfun DC motor driver (https://www.sparkfun.com/products/15451) and two 3-6V DC motors
+App connects to DFRobot Beetle ESP32 microcontoller (https://www.dfrobot.com/product-1798.html) via BLE. The microcontroller is connected to Sparkfun DC motor driver (https://www.sparkfun.com/products/15451) and two 3-6V DC motors.
+
 - use case for micro- and millifluidics movement of different solutions. 
+
 Button control allows for individual motor forward and backward movement and stop.
 Four additional buttons can be preprogrammed for specific motor patterns.
 
