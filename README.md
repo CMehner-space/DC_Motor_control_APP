@@ -12,5 +12,5 @@ Additional attachment is a RBG LED light strip (https://www.sparkfun.com/product
 
 <img src= "https://github.com/CMehner-space/DC_Motor_control_APP/assets/69016840/3c56b971-1421-4305-bf94-725838321872" alt="Full control" width="300">
 <img src= "https://github.com/CMehner-space/DC_Motor_control_APP/assets/69016840/04a7463b-7831-4757-891e-652b5f0b9c0a" alt="Motor fwd/bwd" width="300">
-<img src= "https://github.com/CMehner-space/DC_Motor_control_APP/assets/69016840/28b4f4e8-69d7-485c-9b6e-7bed142dd5c8" alt="Connection page" width="300">
+<img src= "https://github.com/CMehner-space/DC_Motor_control_APP/assets/69016840/bc070aa4-c847-46c8-a9cd-e59dcde423ff" alt="Connection page" width="300">
 
